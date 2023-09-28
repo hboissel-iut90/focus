@@ -59,19 +59,24 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 ### Recherches d'informations
 
-- Nom Prénom
-- Nom Prénom
+- Boisselot Harry
+- Urbain Thomas
+- Ekici Sugdenaz
+- Vidy Enzo
+- Caliskan Turker
 
 
 ### Rapport économique
 
-- Nom Prénom
-- Nom Prénom
-- Nom Prénom
+- Boisselot Harry
+- Urbain Thomas
+- Ekici Sugdenaz
+- Vidy Enzo
+- Caliskan Turker
 
 ### Développement site
 
-- Nom Prénom
+- Caliskan Turker
   - Page d’accueil
   - "Template" de page (Navbar/Footer)
   - Page présentation
