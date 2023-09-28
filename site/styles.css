@@ -6,8 +6,8 @@ body, h1, h2, h3, p {
 
 /* Style de fond sombre pour tout le site */
 body {
-  background-color: #000000;
-  color: #D3D3D3;
+  background-color: #D3D3D3;
+  color: #FFFFFF;
   font-family: Arial, sans-serif;
 }
 
