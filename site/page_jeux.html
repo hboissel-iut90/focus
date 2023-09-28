@@ -3,11 +3,12 @@
   <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Focus Entertainment</title>
+      <title>Jeux</title>
       <link href="https://cdn.focus-home.com/fhi-fastforward-admin/company/favicon.ico" rel="icon" type="image/png">
       <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
       <link rel="stylesheet" href="styles.css"> 
   </head>
+
   <body>
       <nav class="navbar navbar-expand-lg bg-body-tertiary">
           <div class="container-fluid">
@@ -18,30 +19,60 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="#">Accueil</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#"><strong>A propos</strong></a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Services</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Contact</a>
-                </li>
+                    <a class="nav-link" href="https://hboissel-iut90.github.io/focus/site/page_d'accueil.html">Accueil</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="https://hboissel-iut90.github.io/focus/site/focus_presentation.html">Présentation</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="https://hboissel-iut90.github.io/focus/site/page_jeux.html"><strong>Jeux</strong></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" href="https://hboissel-iut90.github.io/focus/site/economie.html">Economie</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="https://hboissel-iut90.github.io/focus/site/page3.html">Ecologie</a>
+                  </li>
               </ul>
             </div>
           </div>
-        </nav>
-      <header>
-          <h1>Welcome to Focus Entertainment</h1>
-          <br>
-          <br>
-          <br>
+      </nav>
+        <header>
+            <h1>Jeux</h1>
+        </header>
+        <br>
+        <br>
+        <div id="carouselExampleFade" class="carousel slide carousel-fade">
+          <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleFade" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleFade" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleFade" data-bs-slide-to="2" aria-label="Slide 3"></button>
+          </div>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="images/a_plague_tale.jpg" width="800" height="400" class="d-block w-100" alt="Image du jeu A Plague Tale: Requiem">
+            </div>
+            <div class="carousel-item">
+              <img src="images/snowrunner.jpg" width="800" height="400" class="d-block w-100" alt="Image du jeu SnowRunner">
+            </div>
+            <div class="carousel-item">
+              <img src="images/atomic_heart.jpg" width="800" height="400" class="d-block w-100" alt="Image du jeu Atomic Heart">
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+        <br>
       <script src="bootstrap/js/bootstrap.js"></script>
   </body>
   <footer>
       <p>&copy; 2023 Focus Entertainment. Tous droits réservés.</p>
-      <p>Page en cours de développement par VIDY Enzo....</p>
+      <p><strong>Page en cours de développement par VIDY Enzo....</strong></p>
   </footer>
 </html>
