@@ -18,12 +18,25 @@ a {
 }
 
 /* Styles pour les en-têtes */
-h1, h2, h3 {
+h1{
+  color: #d0d0d0;
+} 
+
+h2, h3{
   color: #f5f5f7;
 }
 
-/*Taille du logo*/
+p{
+  color: #e8e8e8;
+}
+
+/*taille du logo*/
 .logo {
-  width: 150px; 
-  height: auto; 
+  width: 150px; /* Ajustez la largeur souhaitée */
+  height: auto; /* Conservez la proportion d'origine */
+}
+
+.image{
+  width: 600px; /* Ajustez la largeur souhaitée */
+  height: auto; /* Conservez la proportion d'origine */
 }
