@@ -40,3 +40,7 @@ p{
   width: 600px; /* Ajustez la largeur souhaitée */
   height: auto; /* Conservez la proportion d'origine */
 }
+
+footer{
+  background-color: #00000;
+}
