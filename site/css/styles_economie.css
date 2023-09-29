@@ -1,0 +1,46 @@
+/* Réinitialisation de la marge et du rembourrage */
+body, h1, h2, h3, p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style de fond sombre pour tout le site */
+body {
+  background-color: #383E42;
+  color: #FFFFFF;
+  font-family: Arial, sans-serif;
+}
+
+/* Styles pour les liens */
+a {
+  color: #0054dc;
+  text-decoration: none;
+}
+
+/* Styles pour les en-têtes */
+h1{
+  color: #d0d0d0;
+} 
+
+h2, h3{
+  color: #f5f5f7;
+}
+
+p{
+  color: #e8e8e8;
+}
+
+/*taille du logo*/
+.logo {
+  width: 150px; /* Ajustez la largeur souhaitée */
+  height: auto; /* Conservez la proportion d'origine */
+}
+
+.image{
+  width: 600px; /* Ajustez la largeur souhaitée */
+  height: auto; /* Conservez la proportion d'origine */
+}
+
+footer{
+  background-color: #00000;
+}
