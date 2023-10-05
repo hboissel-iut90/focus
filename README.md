@@ -79,9 +79,12 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 - Caliskan Turker
   - Page d’accueil
-  - "Template" de page (Navbar/Footer)
-  - Page présentation
-- Nom Prénom
-  - Page histoire
-- Nom Prénom
-  - Page organisation
+  - "Template" de page (Navbar)
+- Urbain Thomas
+  - Page Présentation
+- Vidy Enzo
+  - Page Jeux
+- Boisselot Harry
+  - Page Economie
+- Ekici Sugdenaz
+  - Page Ecologie
