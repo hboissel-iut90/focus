@@ -1,12 +1,12 @@
 /* Style de fond sombre pour tout le site */
 body {
-  background-image: url(https://hboissel-iut90.github.io/focus/site/images/a_plague_tale.jpg);
+  background-image: url(fleur.jpeg);
   background-size: 100%;
   color: #FFFFFF;
   font-family: Arial, sans-serif;
 }
 
-/*taille du logo*/
+/* du logo*/
 .logo {
   width: 150px; /* Ajustez la largeur souhaitée */
   height: auto; /* Conservez la proportion d'origine */
@@ -50,8 +50,30 @@ body {
   position: flex;
   margin: 5% 15% 5% 15%;
   padding: 20px;
-  opacity: 70%;
+  opacity: 75%;
 }
+
+
+.container{border: 1px;}
+.container-flex{display: flex;}
+.item{border: 10px; padding: 10px;}
+.item-width{width: 300px}
+.item-height-small{height: 100px;}
+.item-height-big{height: 300px;}
+
+
+.flex-row{flex-direction: row;}
+.flex-row-reverse{flex-direction: row-reverse;}
+.flex-column{flex-direction: column;}
+.flex-column-reverse{flex-direction: column-reverse;}
+
+
+.justify-content-flex-start{justify-content: flex-start;}
+.justify-content-flex-end{justify-content: flex-end;}
+.justify-content-center{justify-content: center;}
+.justify-content-space-between{justify-content: space-between;}
+.justify-content-space-around{justify-content: space-around;}
+.justify-content-space-evenly{justify-content: space-evenly;}
 
 @media all and (min-width: 600px) {
   .aside { flex: 1 0 0;}
