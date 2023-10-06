@@ -50,11 +50,11 @@ body  {
   background: gray;
 }
 
-@media all (min-width: 600px) {
+@media all and (min-width: 600px) {
   .aside { flex: 1 0 0; }
 }
 
-@media all (min-width: 800px) {
+@media all and (min-width: 800px) {
   .main    { flex: 3 0px; }
   .aside-1 { order: 1; } 
   .main    { order: 2; }
