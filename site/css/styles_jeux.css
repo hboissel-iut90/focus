@@ -1,4 +1,4 @@
-body  {
+/*body  {
   background-color: black;
 }
 
@@ -95,4 +95,20 @@ hr {
   opacity: 100%;
   margin-top: 30px;
   border-top: 3px solid white;
+}*/
+
+.navbar {
+  height: 100px;
+  background-color: white;
+  box-shadow: 1px 7px 12px rgba(0, 0, 0, 0.5);
+}
+
+.logo {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 15%;
+  height: 100px;
+  object-fit: cover;
+  opacity: 0.9;
 }
