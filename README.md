@@ -17,7 +17,45 @@ Ce dépôt correspond à un site web créé en HTML/CSS/JS dans le cadre de la S
 
 ## Choix de conception  
 
-Pour la conception du site, nous nous sommes grandement inspirés du site officiel de Focus Entertainment (disponible [ici](https://www.focus-entmt.com/fr/)). Nous avons présenté différents styles de wireframe, d'écriture, et de couleurs grâce à deux questionnaires que notre client a répondu. Nous nous sommes aidé d'un template que nous trouvions adapté à l'attente du client tout en modifiant pour que le site réponde à ses attentes.    
+Pour la conception du site, nous nous sommes grandement inspirés du site officiel de Focus Entertainment (disponible [ici](https://www.focus-entmt.com/fr/)). Nous avons présenté différents styles de wireframe, d'écriture, et de couleurs grâce à deux questionnaires que notre client a répondu. Nous nous sommes aidé d'un template que nous trouvions adapté à l'attente du client tout en modifiant pour que le site réponde à ses attentes.   
+
+
+## Répartition du travail
+
+### Planification - Diagramme de GANTT
+
+- Boisselot Harry
+- Vidy Enzo
+
+### Recherches d'informations
+
+- Boisselot Harry
+- Urbain Thomas
+- Ekici Sugdenaz
+- Vidy Enzo
+- Caliskan Turker
+
+
+### Rapport économique
+
+- Boisselot Harry
+- Urbain Thomas
+- Ekici Sugdenaz
+- Vidy Enzo
+- Caliskan Turker
+
+### Développement site
+
+- Caliskan Turker
+  - Page d’accueil
+- Urbain Thomas
+  - Page Présentation
+- Vidy Enzo
+  - Page Jeux
+- Boisselot Harry
+  - Page Economie
+- Ekici Sugdenaz
+  - Page Ecologie 
 
 
 ## Développement Site Web et Validation des pages
@@ -75,41 +113,3 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 <br>
 <img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
-
-
-## Répartition du travail
-
-### Planification - Diagramme de GANTT
-
-- Boisselot Harry
-- Vidy Enzo
-
-### Recherches d'informations
-
-- Boisselot Harry
-- Urbain Thomas
-- Ekici Sugdenaz
-- Vidy Enzo
-- Caliskan Turker
-
-
-### Rapport économique
-
-- Boisselot Harry
-- Urbain Thomas
-- Ekici Sugdenaz
-- Vidy Enzo
-- Caliskan Turker
-
-### Développement site
-
-- Caliskan Turker
-  - Page d’accueil
-- Urbain Thomas
-  - Page Présentation
-- Vidy Enzo
-  - Page Jeux
-- Boisselot Harry
-  - Page Economie
-- Ekici Sugdenaz
-  - Page Ecologie
