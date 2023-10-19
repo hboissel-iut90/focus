@@ -64,3 +64,8 @@ div.carousel-fade {
   width: auto;
   height: 251px;
 }
+
+.monte {
+  position: relative;
+  bottom: 70px;
+}
