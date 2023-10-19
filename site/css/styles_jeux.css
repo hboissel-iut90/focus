@@ -1,8 +1,9 @@
 .navbar {
-  height: 80px;
-  background-color: white;
-  box-shadow: 1px 7px 12px rgba(0, 0, 0, 0.5);
+    height: 80px;
+    background-color: white;
+    box-shadow: 1px 4px 10px rgba(0, 0, 0, 0.5);
 }
+
 
 .logo {
   position: absolute;
