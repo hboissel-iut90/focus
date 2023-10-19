@@ -18,3 +18,18 @@
 p {
   font-size: 21px;
 }
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: calibri;
+  text-decoration: underline;
+}
+
+.btn {
+  width: 100%;
+  box-shadow: 1px 5px 7px rgba(0, 0, 0, 0.5);
+  background-color: black;
+}
