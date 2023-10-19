@@ -1,3 +1,19 @@
+.navbar {
+  height: 80px;
+  background-color: white;
+  box-shadow: 1px 7px 12px rgba(0, 0, 0, 0.5);
+}
+
+.logo {
+  position: absolute;
+  top: 20px;
+  left: 35px;
+  width: 150px;
+  height: auto;
+  object-fit: cover;
+  opacity: 0.9;
+}
+
 footer{
   background-color: #000000;
 }
