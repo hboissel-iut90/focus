@@ -14,15 +14,17 @@
   opacity: 0.9;
 }
 
+p {
+  font-size: 20px;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
 h1, h2, h3 {
   font-family: calibri;
-  text-decoration: underline;
 }
-
 
 div.carousel-fade {
   margin-top: 5%;
@@ -46,4 +48,14 @@ div.carousel-fade {
   width: 100%;
   box-shadow: 1px 5px 7px rgba(0, 0, 0, 0.5);
   background-color: black;
+}
+
+.shdw {
+  box-shadow: 1px 5px 7px rgba(0, 0, 0, 0.5);
+}
+
+.liste-droite {
+  position: relative;
+  bottom: 170px;
+  left: 250px;
 }
