@@ -47,7 +47,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 <img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
 
 
-### Présentation générale
+### Page sur les jeux
 
 **Auteur : Nom Prénom**  
 
@@ -57,7 +57,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 <img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
 
 
-### Présentation générale
+### Page sur l'économie
 
 **Auteur : Nom Prénom**  
 
@@ -67,7 +67,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 <img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
 
 
-### Présentation générale
+### Page sur l'écologie
 
 **Auteur : Nom Prénom**  
 
