@@ -62,54 +62,51 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 
 ### Page d'accueil
 
-**Auteur : Nom Prénom**  
+**Auteur : Caliskan Turker**  
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2Findex.html)
 
 
-![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
-
-ou 
-
-<img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
+<br>
+<img src="site/W3C/W3C_accueil.png" style="width=400px" alt="capture ecran sur w3c">
 
 
 ### Présentation générale
 
-**Auteur : Nom Prénom**  
+**Auteur : Urbain Thomas**  
 
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2Fsite%2Ffocus_presentation.html)
 
 
 <br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
+<img src="site/W3C/W3C_presentation.png" width="400px" alt="capture ecran sur w3c">
 
 
 ### Page sur les jeux
 
-**Auteur : Nom Prénom**  
+**Auteur : Vidy Enzo**  
 
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2Fsite%2Fpage_jeux.html)
 
 <br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
+<img src="site/W3C/W3C_jeux.png" width="400px" alt="capture ecran sur w3c">
 
 
 ### Page sur l'économie
 
-**Auteur : Nom Prénom**  
+**Auteur : Boisselot Harry**  
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2Fsite%2Feconomie.html)
 
 <br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
+<img src="site/W3C/W3C_economie.png" width="400px" alt="capture ecran sur w3c">
 
 
 ### Page sur l'écologie
 
-**Auteur : Nom Prénom**  
+**Auteur : Ekici Sugdenaz**  
 
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2Fsite%2Fecologie.html)
 
 <br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
+<img src="site/W3C/W3C_ecologie.png" width="400px" alt="capture ecran sur w3c">
