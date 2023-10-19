@@ -9,7 +9,10 @@
 - [Vidy Enzo](mailto:enzo.vidy@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
 - [Urbain Thomas](mailto:thomas.urbain@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
 - [Ekici Sugdenaz](mailto:sugdenaz.ekici@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
-- [Caliskan Turker](mailto:turker.caliskan@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
+- [Caliskan Turker](mailto:turker.caliskan@edu.univ-fcomte.fr?subject=SAE_1_05_06)
+
+<br>
+<img src="site/W3C/contribution.png" width="700px" alt="capture d'écran des contributeurs">
 
 ## Présentation 
 
