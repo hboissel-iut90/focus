@@ -112,3 +112,7 @@ hr {
   object-fit: cover;
   opacity: 0.9;
 }
+
+p {
+  font-size: 21px;
+}
