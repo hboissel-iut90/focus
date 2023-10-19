@@ -12,7 +12,7 @@
 - [Caliskan Turker](mailto:turker.caliskan@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 
 <br>
-<img src="site/W3C/contribution.png" width="700px" alt="capture d'écran des contributeurs">
+<img src="site/W3C/contribution.png" width="500px" alt="capture d'écran des contributeurs">
 
 ## Présentation 
 
