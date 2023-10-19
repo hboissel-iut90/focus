@@ -17,7 +17,7 @@ Ce dépôt correspond à un site web créé en HTML/CSS/JS dans le cadre de la S
 
 ## Choix de conception  
 
-Pour la conception du site, nous nous sommes grandement inspirés du site officiel de Focus Entertainment (disponible [ici](https://www.focus-entmt.com/fr/)), du site d'un de ses principaux concurrents [xxxxxxxxxx](https://www.entreprise2.fr/) et nous avons pris comme référence la charte de ************** disponible [ici](doc/charte_graphique.pdf).    
+Pour la conception du site, nous nous sommes grandement inspirés du site officiel de Focus Entertainment (disponible [ici](https://www.focus-entmt.com/fr/)). Nous avons présenté différents styles de wireframe, d'écriture, et de couleurs grâce à deux questionnaires que notre client a répondu. Nous nous sommes aidé d'un template que nous trouvions adapté à l'attente du client tout en modifiant pour que le site réponde à ses attentes.    
 
 
 ## Développement Site Web et Validation des pages
