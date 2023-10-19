@@ -1,14 +1,27 @@
+h1, h2, h3 {
+    font-family: Calibri, sans-serif;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
 .navbar {
     height: 80px;
     background-color: white;
-    box-shadow: 1px 4px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 1px 7px 12px rgba(0, 0, 0, 0.5);
 }
 
 .logo {
-    height: 40px;
+    position: absolute;
+    top: 20px;
+    left: 35px;
     width: 150px;
-    margin-left: -85px;
+    height: auto;
+    object-fit: cover;
+    opacity: 0.9;
 }
+
 .directeur-photo{
     height: 100px;
     width: 100px;
