@@ -59,3 +59,8 @@ div.carousel-fade {
   bottom: 170px;
   left: 250px;
 }
+
+.w-100 {
+  width: auto;
+  height: 251px;
+}
