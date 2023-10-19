@@ -1,13 +1,17 @@
 .navbar {
-    height: 80px;
-    background-color: white;
-    box-shadow: 1px 4px 10px rgba(0, 0, 0, 0.5);
+  height: 80px;
+  background-color: white;
+  box-shadow: 1px 7px 12px rgba(0, 0, 0, 0.5);
 }
 
 .logo {
-    height: 40px;
-    width: 150px;
-    margin-left: -85px;
+  position: absolute;
+  top: 20px;
+  left: 35px;
+  width: 150px;
+  height: auto;
+  object-fit: cover;
+  opacity: 0.9;
 }
 
 body {
