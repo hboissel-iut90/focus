@@ -36,7 +36,16 @@ ou
 <img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
 
 
-<!--  style="width=400px" ne fonctionne pas -->
+### Présentation générale
+
+**Auteur : Nom Prénom**  
+
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+
+
+<br>
+<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
+
 
 ### Présentation générale
 
@@ -47,6 +56,25 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 <br>
 <img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
 
+
+### Présentation générale
+
+**Auteur : Nom Prénom**  
+
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+
+<br>
+<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
+
+
+### Présentation générale
+
+**Auteur : Nom Prénom**  
+
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+
+<br>
+<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
 
 
 ## Répartition du travail
