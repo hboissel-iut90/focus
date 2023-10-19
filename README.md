@@ -3,7 +3,7 @@
 # Focus Entertainment
 ## Site du GitHub :
 
-[Focus Entertainement](https://hboissel-iut90.github.io/focus/)
+[Focus Entertainment](https://hboissel-iut90.github.io/focus/)
 
 ## Membres du groupe :
 
