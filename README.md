@@ -105,7 +105,6 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 - Caliskan Turker
   - Page d’accueil
-  - "Template" de page (Navbar)
 - Urbain Thomas
   - Page Présentation
 - Vidy Enzo
