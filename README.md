@@ -79,7 +79,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 
 
 <br>
-<img src="site/W3C/W3C_presentation.png" width="500px" alt="capture ecran sur w3c">
+<img src="site/W3C/W3C_presentation.png" width="700px" alt="capture ecran sur w3c">
 
 
 ### Page sur les jeux
@@ -89,7 +89,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2Fsite%2Fpage_jeux.html)
 
 <br>
-<img src="site/W3C/W3C_jeux.png" width="500px" alt="capture ecran sur w3c">
+<img src="site/W3C/W3C_jeux.png" width="700px" alt="capture ecran sur w3c">
 
 
 ### Page sur l'économie
@@ -99,7 +99,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&doc
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2Fsite%2Feconomie.html)
 
 <br>
-<img src="site/W3C/W3C_economie.png" width="600px" alt="capture ecran sur w3c">
+<img src="site/W3C/W3C_economie.png" width="700px" alt="capture ecran sur w3c">
 
 
 ### Page sur l'écologie
@@ -109,4 +109,4 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2Fsite%2Fecologie.html)
 
 <br>
-<img src="site/W3C/W3C_ecologie.png" width="600px" alt="capture ecran sur w3c">
+<img src="site/W3C/W3C_ecologie.png" width="700px" alt="capture ecran sur w3c">
