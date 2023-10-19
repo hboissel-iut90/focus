@@ -98,17 +98,16 @@ hr {
 }*/
 
 .navbar {
-  height: 100px;
+  height: 80px;
   background-color: white;
   box-shadow: 1px 7px 12px rgba(0, 0, 0, 0.5);
 }
 
 .logo {
   position: absolute;
-  top: 0px;
-  left: 0px;
-  width: 15%;
-  height: 100px;
+  top: 10px;
+  left: 20px;
+  height: 60px;
   object-fit: cover;
   opacity: 0.9;
 }
