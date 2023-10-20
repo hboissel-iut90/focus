@@ -99,7 +99,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&doc
 
 **Auteur : Boisselot Harry**  
 
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2Fsite%2Feconomie.html)
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2Feconomie.html)
 
 <br>
 <img src="site/W3C/W3C_economie.png" width="700px" alt="capture ecran sur w3c">
@@ -109,7 +109,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 
 **Auteur : Ekici Sugdenaz**  
 
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2Fsite%2Fecologie.html)
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2Fecologie.html)
 
 <br>
 <img src="site/W3C/W3C_ecologie.png" width="700px" alt="capture ecran sur w3c">
