@@ -78,7 +78,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 
 **Auteur : Urbain Thomas**  
 
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2Fsite%2Ffocus_presentation.html)
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2Ffocus_presentation.html)
 
 
 <br>
