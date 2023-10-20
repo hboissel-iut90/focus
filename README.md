@@ -89,7 +89,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 
 **Auteur : Vidy Enzo**  
 
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2Fsite%2Fpage_jeux.html)
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fhboissel-iut90.github.io%2Ffocus%2F%2Fpage_jeux.html)
 
 <br>
 <img src="site/W3C/W3C_jeux.png" width="700px" alt="capture ecran sur w3c">
